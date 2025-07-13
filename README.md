@@ -31,4 +31,10 @@ This Jupyter Notebook provides an end-to-end workflow for analyzing and predicti
 
 ## How to Run:
 1.Open the notebook in Jupyter and run the cells sequentially.
+[/workspaces/Electricity-Cost-Prediction-and-Analysis-Using-Machine-Learning-Models/electricity_cost_dataset.csv](https://fantastic-palm-tree-pj4qj6r9rgxfr9wg.github.dev/)
 2. Use the saved model in the Streamlit app for predictions.
+
+
+https://github.com/user-attachments/assets/0779df28-468c-48c0-ada9-35999928b874
+
+
