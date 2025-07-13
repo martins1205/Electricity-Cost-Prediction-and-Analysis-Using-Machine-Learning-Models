@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 
 # Load the saved model
-model = joblib.load('random_forest_best_model.pkl')
+model = joblib.load('/workspaces/Electricity-Cost-Prediction-and-Analysis-Using-Machine-Learning-Models/random_forest_best_model.pkl')
 
 # Title of the app
 st.title('Electricity Cost Prediction App')
